@@ -1,0 +1,16 @@
+{
+  WindowHeight = 1080
+  UseMouse = true
+  NewUpdateSoundRevisionViewed = 36401
+  BackupSaveCount = 2
+  LastRoadmapRevisionViewed = 37828
+  DisplayIndex = 0
+  ValidCheckpoint = false
+  LastPatchNoteRevisionViewed = 36401
+  ScreenshotCount = 1
+  ControlsResetRevisionViewed = 36401
+  Y = 1080
+  X = 1920
+  DefaultControlsChosen = true
+  WindowWidth = 1920
+}
