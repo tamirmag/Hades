@@ -8,7 +8,10 @@
   ValidCheckpoint = false
   LastPatchNoteRevisionViewed = 37828
   ScreenshotCount = 1
-  Y = 1080
-  X = 1920
+  Y = 1440
+  X = 2560
   WindowWidth = 1920
+  NoBorder = false
+  FullScreen = true
 }
+
