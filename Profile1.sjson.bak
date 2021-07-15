@@ -2,10 +2,11 @@
   WindowHeight = 1440
   UseMouse = true
   NewUpdateSoundRevisionViewed = 36401
-  BackupSaveCount = 2
+  BackupSaveCount = 3
   LastRoadmapRevisionViewed = 37828
   SwapInterval = 0
   DisplayIndex = 0
+  ValidCheckpoint = false
   LastPatchNoteRevisionViewed = 36401
   ScreenshotCount = 2
   ControlsResetRevisionViewed = 37828
