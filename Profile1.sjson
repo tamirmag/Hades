@@ -13,6 +13,8 @@
   Y = 1440
   X = 2560
   DefaultControlsChosen = true
-  WindowWidth = 2560
+  WindowWidth = 1920
+  NoBorder = false
+  FullScreen = true
 }
 
